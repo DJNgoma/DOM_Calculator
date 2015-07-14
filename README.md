@@ -4,6 +4,8 @@ Right now just brushing up on my use of git and also DOM.
 
 ## Firstly I created a simple set of files to play around with, the calculator is still a work in progress.
 
+1. Download the current repo and just fire up the index.html
+
 ## Secondly I got things ready for get using the following terminal commands:
 
 Initialise git in the current directory
